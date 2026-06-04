@@ -1,4 +1,4 @@
-markdown
+
 # 💻 Yuri Koga Santos
 
 ### Desenvolvedor Full Stack Web | Estudante de ADS | Scrum Master | UI/UX Designer
