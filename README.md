@@ -56,7 +56,7 @@ Busco oportunidade de estágio em Tecnologia da Informação com foco em Produto
 # 💼 Conhecimentos
 
 ### 🌐 Desenvolvimento Web
-HTML5 • CSS3 • JavaScript • Java • React • Node.js
+HTML5 • CSS3 • JavaScript • Java • React • Node.js • Python
 
 ### 🗄️ Banco de Dados
 SQL • MySQL • JSON
