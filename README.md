@@ -1,22 +1,21 @@
 
 # 💻 Yuri Koga Santos
 
-### Desenvolvedor Full Stack Web | Estudante de ADS | Scrum Master | UI/UX Designer
+### Desenvolvedor em Formação | Estudante de ADS | JAVA POO, JAVA SWING e MySQL
 
 📍 Região Oeste — São Paulo/SP  
 📧 yurikogasantos565@gmail.com  
-📱 (11) 97889-4159  
-💼 LinkedIn • 🐙 GitHub
+💼 LinkedIn: https://www.linkedin.com/in/yurikogasantos
 
 ---
 
 # 👨‍💻 Sobre Mim
 
-Sou desenvolvedor full stack web, estudante de Análise e Desenvolvimento de Sistemas e apaixonado por tecnologia, inovação e construção de soluções digitais.
+Sou desenvolvedor em formação, estudante de Análise e Desenvolvimento de Sistemas e fascinado por tecnologia, problemas lógicos, inovação e construção de soluções digitais.
 
 🌱 Atualmente cursando Análise e Desenvolvimento de Sistemas
 
-💡 Interesses: Inteligência Artificial 🤖 | Engenharia ⚙️ | Marcenaria 🔨 | Desenvolvimento Web 🌐 | Produtos Digitais 💻
+💡 Interesses: Inteligência Artificial 🤖 | Engenharia ⚙️ | Marcenaria 🔨 | Desenvolvimento Web e Back-End 🌐
 
 🎯 Experiência com desenvolvimento web, liderança de equipes utilizando metodologias ágeis e organização de projetos tecnológicos.
 
@@ -28,7 +27,7 @@ Sou desenvolvedor full stack web, estudante de Análise e Desenvolvimento de Sis
 
 # 🎯 Objetivo Profissional
 
-Busco oportunidade de estágio em Tecnologia da Informação com foco em Produtos Digitais e Análise de Dados, aplicando conhecimentos em programação, SQL e desenvolvimento de soluções tecnológicas.
+Busco oportunidade dentro da área de Tecnologia com foco em aprendizado constante e aperfeiçoamento pessoal em novas rotinas, aplicando conhecimentos em programação, SQL e desenvolvimento de soluções tecnológicas.
 
 ---
 
@@ -47,9 +46,6 @@ Busco oportunidade de estágio em Tecnologia da Informação com foco em Produto
 - 💻 Fundamentos de TI: Hardware e Software — Fundação Bradesco
 - ☕ Introdução ao Java — Sololearn
 - 🗄️ Introdução ao SQL — Sololearn
-- 📈 Green Belt em Lean Six Sigma — RL Associados
-- 👔 Liderança Resiliente — Harvard Business School Online
-- 🚀 Soluções Tecnológicas Emergentes — FIAP
 
 ---
 
@@ -146,35 +142,19 @@ Figma • UX/UI Design
 
 ---
 
-## 🌐 Currículo Online
-
-Currículo hospedado utilizando GitHub Pages.
-
-### Tecnologias
-HTML • CSS • JavaScript
-
----
-
-# 🌎 Idiomas
-
-- 🇺🇸 Inglês — Básico
-- 🇪🇸 Espanhol — Básico
-
----
-
 # ⚡ Tecnologias que Domino
 
 ### Front-End
-HTML 🌐 | CSS 🎨 | JavaScript ⚡ | Bootstrap 💻
+HTML 🌐 | CSS 🎨 | JavaScript ⚡
 
 ### Back-End
-Java ☕ | Node.js 🟢 | SQL 🗄️
+Java ☕ | SQL 🗄️
 
 ### Banco de Dados
 MySQL 🗄️ | SQL 📊 | JSON 📄
 
 ### Ferramentas
-Git 🐙 | GitHub 🟢 | VS Code 💻 | IntelliJ ☕ | Eclipse 🌙 | Trello 📋
+Git 🐙 | GitHub 🟢 | VS Code 💻 | IntelliJ ☕ | Trello 📋
 
 ### UX/UI Design
 Figma 🎨 | Design Responsivo 📱
@@ -187,13 +167,8 @@ Scrum 🚀 | Kanban 📋 | Lean Six Sigma 📈
 # 📈 Atualmente Aprendendo
 
 - ☕ Java Avançado
-- 🗄️ SQL para Análise de Dados
+- 🗄️ Criação de Banco de Dados
 - 📊 Business Intelligence
 - 🤖 Inteligência Artificial
-- 🚀 Desenvolvimento Full Stack
+- 🚀 Desenvolvimento Java web
 
----
-
-# 🚀 "Transformando ideias em soluções através da tecnologia."
-
-### Feito por Yuri Koga Santos 💻
