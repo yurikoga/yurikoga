@@ -5,7 +5,7 @@
 
 📍 Região Oeste — São Paulo/SP  
 📧 yurikogasantos565@gmail.com  
-💼 LinkedIn: https://www.linkedin.com/in/yurikogasantos
+💼 https://www.linkedin.com/in/yurikogasantos
 
 ---
 
